@@ -33,9 +33,7 @@ This section outlines the projects I'm actively working on, organized into two m
 
 ### Research Projects
 
-1. _"NASCAR Analysis"_ - A statistical analysis of Cup Series racing with the goal of developing accurate predictive technology. A starting system has been produced and is being tested by predicting results of races over the current (2024) season. Results from testing have thus far been reasonable.
-2. _"F1 Analysis"_ - A statistical analysis of F1 season data with the goal of comparing the last complete season (2023) to the seasons previous in search of statistical anomalies. A database of historical F1 data has been obtained and scripts are being developed to further extract data of interest from the database for the analysis process.
-3. _"Space and Time"_ - A theoretical (and philisophical) analysis of space, time, and spacetime with the ultimate goal of expanding current knowledge on the subject as much as is possible. Started by looking at the universe as a product of three spacial and one time dimensions, and how that equates to 'reality', and am making some ground with that.
+... none currently ...
 
 
 # Stuff I Might Start Eventually
